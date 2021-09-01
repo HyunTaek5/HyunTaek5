@@ -1,4 +1,5 @@
 ### Hi there 👋
+![HyunTaek5's github stats](https://github-readme-stats.vercel.app/api?username=HyunTaek5&show_icons=true&theme=nord)
 
 <!--
 **HyunTaek5/HyunTaek5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
