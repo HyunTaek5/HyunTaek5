@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+### 단국대학교 모바일 시스템공학과 오현택입니다. 😄
 ![HyunTaek5's github stats](https://github-readme-stats.vercel.app/api?username=HyunTaek5&show_icons=true&theme=nord)
 
 <!--
