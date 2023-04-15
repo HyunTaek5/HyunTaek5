@@ -8,7 +8,7 @@
 🌱 I’m currently using **TypeScript** and **Kotlin**.
 
 ## Career 📈
-- **Backend Developer** at [EntropyParadx](https://entropyparadox.com/) from 2021.05
+**Backend Developer** at [EntropyParadx](https://entropyparadox.com/) from 2021.05
 
 ## TechStack 🛠
 ### Language 📕
