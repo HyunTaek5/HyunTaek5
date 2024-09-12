@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header)
 
 ## 👋 About Me
-🎓 I'm a student at [Dankook University](https://www.dankook.ac.kr/en/web/international) majoring in Computer Science and Engineering.
+🎓 I'm a student at [Dankook University](https://www.dankook.ac.kr/en/web/international) majoring in Mobile System Engineering.
 
 🌱 I’m currently using **TypeScript** and **Kotlin**.
 
