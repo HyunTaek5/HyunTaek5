@@ -8,7 +8,7 @@
 🌱 I’m currently using **TypeScript** and **Kotlin**.
 
 ## Career 📈
-**Backend Developer** at [EntropyParadox](https://entropyparadox.com/) from 2021.05
+**Backend Developer** at [EntropyParadox](https://entropyparadox.com/) from 2021.05 to 2024
 
 ## TechStack 🛠
 ### Language 📕
@@ -24,7 +24,7 @@
 ###  Framework & Library 🧰
 
 <img src="https://img.shields.io/badge/Nest.js-EA2745?style=for-the-badge&logo=NestJs&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=ffffff">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff">
 
 <br/>
@@ -49,7 +49,6 @@
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" />
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=ffffff">
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=ffffff">
 <br/>
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=ffffff">
@@ -73,8 +72,6 @@
 
 <br> 
 <br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunTaek5%2FHyunTaek5&count_bg=%2355A8A3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=footer)
