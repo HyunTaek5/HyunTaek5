@@ -10,7 +10,7 @@
 ## Career 📈
 **Backend Developer** at [EntropyParadox](https://entropyparadox.com/) from 2021.05 to 2024.01
 
-**DT Manager** at [SK Inc. AX](https://www.skax.co.kr/)  from 2025.09
+**Nova Integration Developer** at [SK Inc. AX](https://www.skax.co.kr/)  from 2025.09
 
 ## TechStack 🛠
 ### Language 📕
